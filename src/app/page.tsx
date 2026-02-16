@@ -57,7 +57,7 @@ function App() {
       <header>
         <h1>Agenda UnB 🎓</h1>
         <button onClick={() => setIsLightMode(!isLightMode)}>
-          {isLightMode ? '☀️ Escuro' : '🌙 Claro'}
+          {isLightMode ? '🌙 Escuro' : '☀️ Claro'}
         </button>
       </header>
 
